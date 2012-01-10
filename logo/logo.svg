@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg2" sodipodi:version="0.32" inkscape:version="0.45pre1" sodipodi:modified="true" sodipodi:docname="ClayOgre_BASIC_YIN-YANG.svg" sodipodi:docbase="C:\Documents and Settings\ryan\Desktop\ryan" inkscape:output_extension="org.inkscape.output.svg.inkscape" xmlns:cc="http://web.resource.org/cc/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:dc="http://purl.org/dc/elements/1.1/"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="408.641px"
+	 height="408.598px" viewBox="0 0 408.641 408.598" enable-background="new 0 0 408.641 408.598" xml:space="preserve">
+<sodipodi:namedview  height="990px" width="765px" id="base" inkscape:window-y="22" inkscape:window-x="0" inkscape:window-height="964" inkscape:window-width="1280" inkscape:guide-bbox="true" inkscape:current-layer="layer1" inkscape:document-units="px" inkscape:pageshadow="2" inkscape:pageopacity="0.0" guidetolerance="23.8" showguides="true" gridtolerance="10000" borderopacity="1.0" bordercolor="#666666" inkscape:cy="288.75" pagecolor="#ffffff" inkscape:cx="382.5" inkscape:zoom="0.77575758" objecttolerance="10">
+	</sodipodi:namedview>
+<g id="layer1" transform="translate(-73.218748,-183.9403)" inkscape:groupmode="layer" inkscape:label="Layer 1">
+	<g id="g20781" transform="matrix(0.678805,0,0,0.678805,29.642649,81.831276)">
+		<path id="path2168" fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-linecap="square" stroke-linejoin="round" d="
+			M365.195,151.425c-1.483,0-2.964,0.02-4.437,0.062c-163.557,2.375-295.563,135.82-295.563,299.938
+			c0,164.305,132.31,297.859,296.126,299.937c-81.015-2.054-146.125-68.431-146.125-149.938c0-82.8,67.199-149.999,149.999-149.999
+			s150.001-67.201,150.001-150.001S447.995,151.425,365.195,151.425z"/>
+		<path stroke="#000000" stroke-width="2" stroke-linecap="square" stroke-linejoin="round" d="M365.195,751.362
+			c1.483,0,2.965-0.019,4.438-0.062c163.557-2.375,295.562-135.82,295.562-299.938c0-164.305-132.308-297.859-296.124-299.937
+			c81.013,2.054,146.125,68.431,146.125,149.938c0,82.8-67.201,149.999-150.001,149.999s-149.999,67.201-149.999,150.001
+			S282.395,751.362,365.195,751.362z"/>
+	</g>
+</g>
+<g id="layer2" transform="translate(-73.218748,-183.9403)" inkscape:groupmode="layer">
+</g>
+<rect x="-81.18" y="235.799" fill="none" width="70" height="177"/>
+<text transform="matrix(1 0 0 1 152.8201 136.7991)" font-family="'OCRAExtended'" font-size="150">0</text>
+<text transform="matrix(1 0 0 1 160.8201 359.7991)" fill="#FFFFFF" font-family="'OCRAExtended'" font-size="150">1</text>
+</svg>
